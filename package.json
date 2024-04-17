@@ -13,7 +13,8 @@
   "license": "MIT",
   "repository": "https://github.com/editor-js/image",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "main": "./dist/image.umd.js",
   "module": "./dist/image.mjs",
