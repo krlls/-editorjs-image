@@ -7,6 +7,7 @@
     "editor.js",
     "editorjs"
   ],
+  "type": "module",
   "types": "./index.d.ts",
   "description": "Image Tool for Editor.js",
   "license": "MIT",
